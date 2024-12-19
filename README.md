@@ -38,12 +38,6 @@ This project involves using MATLAB to process a video recorded by a social influ
 2. **Extracted Segments:** Video and audio segments corresponding to the snapping events.
 3. **Summary Video:** A 1-minute engaging video showcasing the highlights with enhanced audio.
 
-## How to Run the Project
-1. Clone this repository.
-2. Place the input video file in the `input` folder.
-3. Run the `process_lego_video.m` script in MATLAB.
-4. The output video will be saved in the `output` folder.
-
 ## Key Concepts Explored
 - Signal Processing: Filtering, noise reduction, and event detection.
 - Image Processing: Video segmentation and compilation.
